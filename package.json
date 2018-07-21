@@ -1,0 +1,26 @@
+{
+  "name": "capstone_stage2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "mdbreact": "^4.5.1",
+    "rc-menu": "^7.2.0",
+    "react": "^16.4.1",
+    "react-bar-chart": "^0.1.2",
+    "react-bootstrap": "^0.32.1",
+    "react-d3": "^0.4.0",
+    "react-datetime": "^2.14.0",
+    "react-dom": "^16.4.1",
+    "react-router-bootstrap": "^0.23.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-simple-pie-chart": "^0.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
