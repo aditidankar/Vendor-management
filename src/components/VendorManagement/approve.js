@@ -5,11 +5,13 @@ import {DropdownButton, MenuItem, Navbar, Nav, NavItem, NavDropdown} from 'react
 import { LinkContainer } from 'react-router-bootstrap';
 import Menu from'rc-menu';
 import PieChart from 'react-simple-pie-chart';
+import BarChart from 'react-bar-chart';
 
 import './approve.css';
+import BootstrapTable from 'react-router-bootstrap';
+import TableHeaderColumn from 'react-router-bootstrap';
 
 class approve extends Component {
-
 render() { 
   return (
     <div>
